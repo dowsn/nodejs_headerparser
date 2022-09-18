@@ -1,4 +1,5 @@
 // index.js
+// note
 // where your node app starts
 
 // init project
